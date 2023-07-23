@@ -234,6 +234,11 @@ body {
   color: #778899;
 }
 
+th, td {
+    padding-right: 5px;
+    vertical-align: top;
+}
+
 .body-text li {
   margin-left:  15px;
   list-style: disc;
